@@ -28,4 +28,4 @@ An example of this would be `http://[server-address]/countdown.php?time=2016-12-
 
 ###Fonts
 
-Any font file can be used as the base font for the countdowm timer. To use a custom font you'll need to upload it to the `fonts` directory and reference the exact name in the query string parameter `font`. *Note: fonts must be uploaded using the `ttf` file extension.
+Any font file can be used as the base font for the countdowm timer. To use a custom font you'll need to upload it to the `fonts` directory and reference the exact name in the query string parameter `font`. *Note: fonts must be uploaded using the `ttf` file extension*.
