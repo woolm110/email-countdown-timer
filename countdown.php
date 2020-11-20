@@ -167,7 +167,7 @@ class CountdownTimer
     for ($i = 0; $i < $strlen; $i++) {
       $dimensions = imagettfbbox($size, $angle, $fontfile, $string[$i]);
       $this->fontSettings['characterWidths'][] = array(
-        $string[i] => $dimensions[2]
+        $string[$i] => $dimensions[2]
       );
     }
 
